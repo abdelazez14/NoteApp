@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "762646426086",
+    "project_id": "fluttercourse-c30a1",
+    "storage_bucket": "fluttercourse-c30a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:762646426086:android:d60629b0fbc0c6975de627",
+        "android_client_info": {
+          "package_name": "com.example.firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBCYnAWTle8r2DhyFbftOy7y-9Mi1dCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
